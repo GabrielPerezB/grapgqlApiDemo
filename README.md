@@ -14,4 +14,4 @@
 
 
 
-# Front End for this example can be found here [GraphQL UI Demo](https://github.com/GabrielPerezB/grapgqlUiDemo)
+## Front End for this example can be found here [GraphQL UI Demo](https://github.com/GabrielPerezB/grapgqlUiDemo)
